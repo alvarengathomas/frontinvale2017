@@ -3,4 +3,9 @@
   alt="Thomas Alvarenga"
   style="width: 200px; border-radius: 100%;"/>
 ### Thomas Alvarenga
-Desenvolvedor Frontend na Ignição Digital
+Desenvolvedor Frontend no
+<a
+  href="https://klickpages.com.br"
+  target="_blank">
+    Klickpages
+</a>

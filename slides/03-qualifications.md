@@ -11,6 +11,11 @@
       href="https://github.com/vuejs/vuex/issues?utf8=%E2%9C%93&q=author%3Aalvarengathomas%20"
       target="_blank">
         Vuex
+    </a> e
+    <a
+      href="http://vuejobs.com.br/"
+      target="_blank">
+        Vue Jobs Brasil
     </a>
   </li>
   <li class="fragment fade-in">
